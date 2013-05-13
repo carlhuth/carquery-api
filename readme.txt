@@ -3,7 +3,7 @@ Contributors: carquery
 Tags: car, vehicle, database, carquery, carqueryapi, dropdown, year, make, model, trim
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 0.2
+Stable tag: 1.1
 
 The CarQuery API plugin easily creates dependent vehicle year, make, model, and trim dropdowns and you can display the result as per selected drop down values.
 
