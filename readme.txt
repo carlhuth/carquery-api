@@ -2,10 +2,10 @@
 Contributors: carquery
 Tags: car, vehicle, database, carquery, carqueryapi, dropdown, year, make, model, trim
 Requires at least: 3.0
-Tested up to: 3.3.1
-Stable tag: 0.1
+Tested up to: 3.5.1
+Stable tag: 0.2
 
-The CarQuery API plugin easily creates dependent vehicle year, make, model, and trim dropdowns.
+The CarQuery API plugin easily creates dependent vehicle year, make, model, and trim dropdowns and you can display the result as per selected drop down values.
 
 == Description ==
 
@@ -18,7 +18,7 @@ The vehicle dropdown menus use AJAX requests to auto-populate using the CarQuery
 1. Extract all files from the zip archive
 1. Copy the carquery-api folder to the /wp-content/plugins directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Use the shortcodes [cq-year] [cq-make] [cq-model] [cq-trim] anywhere in your site to create automatically populated vehicle data dropdowns.
+1. Use the shortcodes [cq-year] [cq-make] [cq-model] [cq-trim][cq-trim][cq-button] anywhere in your site to create automatically populated vehicle data dropdowns.
 
 == Frequently Asked Questions ==
 
