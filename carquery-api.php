@@ -1,14 +1,14 @@
 <?php
 /*
-Plugin Name: Official CarQuery API Wordpress Plugin
+Plugin Name: CarQuery API Vehicle Data Plugin
 Plugin URI: http://www.carqueryapi.com/demo/wordpress-plugin/
-Description: The CarQuery API plugin easily creates dependent vehicle year, make, model, and trim dropdowns.
+Description: The CarQuery API Plugin easily creates dependent vehicle year, make, model, and trim dropdowns.
 Version: 1.2
 Author: CarQueryAPI
 Author URI: http://www.carqueryapi.com
 License: GPL2
 
-Copyright 2015 CarQueryAPI  (email : dan@carqueryapi.com)
+Copyright 2015 CarQueryAPI  (email : contact@carqueryapi.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
