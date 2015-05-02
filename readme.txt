@@ -2,8 +2,8 @@
 Contributors: carquery
 Tags: car, vehicle, database, carquery, carqueryapi, dropdown, year, make, model, trim
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.1
+Tested up to: 4.2.1
+Stable tag: 1.2
 
 The CarQuery API plugin easily creates dependent vehicle year, make, model, and trim dropdowns and you can display the result as per selected drop down values.
 
@@ -81,3 +81,11 @@ Yes, the CarQuery source data can be downloaded in CSV format. Just visit the [C
 * Improved preformatted code.
 * Used latest Api for make and model search.
 * Updated code is compatible with Wp version 3.0 to 3.5.1. 
+
+== Changelog ==
+
+= 1.2 =
+* Improved preformatted code.
+* Used latest Api for make and model search.
+* Updated code is compatible with Wp version 4.2.1. 
+* Updated access to all vehicle years.
